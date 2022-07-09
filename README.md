@@ -1,0 +1,1 @@
+# Learning Type Script interfaces and generics
